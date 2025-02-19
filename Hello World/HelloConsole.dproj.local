@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/01/07 09:26:10.000.213,=C:\Users\artta\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/01/10 16:18:35.000.301,=C:\Users\artta\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/02/19 11:12:00.422,C:\Users\artta\Documents\projetosDelphi\ExemplosLivro\Hello World\Project1.dproj=C:\Users\artta\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/02/19 11:15:13.625,C:\Users\artta\Documents\projetosDelphi\ExemplosLivro\Hello World\HelloConsole.dproj=C:\Users\artta\Documents\projetosDelphi\ExemplosLivro\Hello World\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
